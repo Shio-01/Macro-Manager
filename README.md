@@ -1,6 +1,6 @@
 # Macro-Manager (WIP)
 
-A configuration software and tool for custom macropads, currently under development.
+A configuration software and tool for my [Custom Macropad Project](https://github.com/Shio-01/Custom-Macropad)
 
 ## Tech Stack
 - React
